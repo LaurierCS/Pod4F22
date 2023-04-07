@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "255247687027",
+    "project_id": "pod4-82d49",
+    "storage_bucket": "pod4-82d49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255247687027:android:2e2463ad5d34992fc3f906",
+        "android_client_info": {
+          "package_name": "com.pod4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255247687027-9rdbk33u7lvpi6are34f0iibll0faf7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pod4",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "255247687027-imbs9612opdv73c9h4cfmia8pndkeffu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCrAc9AsQDO96A4IMPd0lEmp6AyNRGc_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255247687027-imbs9612opdv73c9h4cfmia8pndkeffu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
